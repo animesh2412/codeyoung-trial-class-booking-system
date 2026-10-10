@@ -1,4 +1,4 @@
-**Project Tittle : codeyoung-trial-class-booking-system**
+# Codeyoung Trial Class Appointment Booking System
 
 codeyoung-trial-class-booking-system is a full-stack web application that simplifies trial-class scheduling by allowing parents to book a convenient time slot while automatically assigning an eligible mentor. It handles international time zones, daylight-saving-time transitions, booking conflicts, daily mentor capacity, and email notifications.
 
@@ -8,7 +8,7 @@ Built with **React, Node.js, Express, and MongoDB**, MentorSlot demonstrates ful
 
 ## 1. Project Overview
 
-Scheduling trial classes across different countries can be challenging because of time-zone differences, daylight-saving-time transitions, overlapping appointments, and limited mentor availability.
+Scheduling trial classes across different countriegit statuss can be challenging because of time-zone differences, daylight-saving-time transitions, overlapping appointments, and limited mentor availability.
 
 codeyoung-trial-class-booking-system provides a centralized scheduling system that validates booking requests, checks mentor availability, assigns eligible mentors, and manages appointments consistently.
 
