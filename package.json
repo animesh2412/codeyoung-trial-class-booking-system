@@ -1,0 +1,15 @@
+{
+  "name": "mentorslot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Timezone-aware trial-class booking for the Codeyoung full-stack assignment",
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "test": "npm test --prefix server && npm test --prefix client",
+    "build": "npm run build --prefix client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
