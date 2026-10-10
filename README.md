@@ -1,8 +1,6 @@
-\*\*Project Tittle:
+**Project Tittle : codeyoung-trial-class-booking-system**
 
-**A Time-Zone-Aware Trial Class Booking Platform**
-
-MentorSlot is a full-stack web application that simplifies trial-class scheduling by allowing parents to book a convenient time slot while automatically assigning an eligible mentor. It handles international time zones, daylight-saving-time transitions, booking conflicts, daily mentor capacity, and email notifications.
+codeyoung-trial-class-booking-system is a full-stack web application that simplifies trial-class scheduling by allowing parents to book a convenient time slot while automatically assigning an eligible mentor. It handles international time zones, daylight-saving-time transitions, booking conflicts, daily mentor capacity, and email notifications.
 
 Built with **React, Node.js, Express, and MongoDB**, MentorSlot demonstrates full-stack development, scheduling logic, transactional database operations, and email integration.
 
@@ -12,7 +10,7 @@ Built with **React, Node.js, Express, and MongoDB**, MentorSlot demonstrates ful
 
 Scheduling trial classes across different countries can be challenging because of time-zone differences, daylight-saving-time transitions, overlapping appointments, and limited mentor availability.
 
-MentorSlot provides a centralized scheduling system that validates booking requests, checks mentor availability, assigns eligible mentors, and manages appointments consistently.
+codeyoung-trial-class-booking-system provides a centralized scheduling system that validates booking requests, checks mentor availability, assigns eligible mentors, and manages appointments consistently.
 
 **Project objectives**
 
@@ -365,3 +363,5 @@ These are proposed improvements, not claims about implemented functionality.
 B.Tech — Computer Science and Engineering (Cyber Security)
 
 ## GitHub: [animesh2412](https://github.com/animesh2412)
+
+## project repo link: https://github.com/animesh2412/codeyoung-trial-class-booking-system.git
